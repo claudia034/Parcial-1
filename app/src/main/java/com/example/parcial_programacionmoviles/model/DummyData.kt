@@ -1,5 +1,6 @@
 package com.example.parcial_programacionmoviles.model
 
+//Restaurant 1
 const val name ="Pizza hut"
 const val tipo ="Fast food"
 const val description ="Welcome to pizza hut, this is a new restaurant"

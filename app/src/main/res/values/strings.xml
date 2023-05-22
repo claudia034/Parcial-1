@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Parcial-ProgramacionMoviles</string>
+    <string name="add_new_restaurant_title">Add new restaurant</string>
+    <string name="add_new_restaurant_desc">add new restaurant</string>
+    <string name="name_text">Name</string>
+    <string name="restaurants_title">Restaurants</string>
 
 </resources>

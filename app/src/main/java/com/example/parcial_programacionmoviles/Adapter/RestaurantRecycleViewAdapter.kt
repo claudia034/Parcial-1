@@ -5,6 +5,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.parcial_programacionmoviles.model.RestaurantModel
 
+//This RecycleViewAdapter provide a binding from an app-specific data set to views that are displayed within a RecyclerView
 class RestaurantRecycleViewAdapter (
     private val clickListener: (RestaurantModel) -> Unit
 ): RecyclerView.Adapter<RestaurantRecyclerViewHolder>() {
